@@ -1,2 +1,0 @@
-C:\Practica html\Ejemplo c#\ProyectoMedico\ProyectoMedico\obj\Debug\ProyectoMedico.csproj.AssemblyReference.cache
-C:\Practica html\Ejemplo c#\ProyectoMedico\ProyectoMedico\obj\Debug\ProyectoMedico.csproj.CoreCompileInputs.cache
